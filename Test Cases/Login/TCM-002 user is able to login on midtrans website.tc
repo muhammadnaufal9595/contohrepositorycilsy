@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as a user, I must be able to successfully login to the midtrans website</description>
+   <name>TCM-002 user is able to login on midtrans website</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0dead566-d576-4162-97cc-bccfae9a8fce</testCaseGuid>
+</TestCaseEntity>

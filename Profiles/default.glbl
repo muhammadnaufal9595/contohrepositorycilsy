@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>HomePage Midtrans</description>
+      <initValue>'https://demo.midtrans.com/#'</initValue>
+      <name>urlHomepage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Register Page</description>
+      <initValue>'https://account.midtrans.com/register'</initValue>
+      <name>urlRegister</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>loginEmail</description>
+      <initValue>'muhammadnaufal9595@gmail.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>loginPassword</description>
+      <initValue>'Test12345'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid Card</description>
+      <initValue>'4811 1111 1111 1114'</initValue>
+      <name>successCard</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>invalidCard</description>
+      <initValue>'4911 1111 1111 1113'</initValue>
+      <name>failCard</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'01/25'</initValue>
+      <name>expireCard</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CVV Number</description>
+      <initValue>'123'</initValue>
+      <name>CVV</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Banks OTP</description>
+      <initValue>'112233'</initValue>
+      <name>passTrans</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Login Page</description>
+      <initValue>'https://account.midtrans.com/login'</initValue>
+      <name>urlLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>email2midtrans</description>
+      <initValue>'akundobong@gmail.com'</initValue>
+      <name>email2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>pass2midtrans</description>
+      <initValue>'4kunDobong'</initValue>
+      <name>password2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

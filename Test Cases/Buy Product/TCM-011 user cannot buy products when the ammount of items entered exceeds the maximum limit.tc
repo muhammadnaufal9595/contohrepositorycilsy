@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as a user, I cannot process product transactions when the number of products exceeds the maximum limit of 1,000,000,000</description>
+   <name>TCM-011 user cannot buy products when the ammount of items entered exceeds the maximum limit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>683f75c8-8d60-448b-a4e7-78a5b86a9202</testCaseGuid>
+</TestCaseEntity>

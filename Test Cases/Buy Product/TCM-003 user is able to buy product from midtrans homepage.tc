@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM-003 user is able to buy product from midtrans homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a16aa49c-071c-4081-8b54-f03498b1fb88</testCaseGuid>
+</TestCaseEntity>

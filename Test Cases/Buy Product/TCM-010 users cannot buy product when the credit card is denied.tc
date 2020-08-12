@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as a user, I cannot process product transactions when I use an denied credit card</description>
+   <name>TCM-010 users cannot buy product when the credit card is denied</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45058619-d036-44ab-a37f-d39e9c018c02</testCaseGuid>
+</TestCaseEntity>

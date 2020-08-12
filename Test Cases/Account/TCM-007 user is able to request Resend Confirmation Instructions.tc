@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as a user, I can request &quot;resend confirmation instructions&quot; if the confirmation email is unavailable/lost</description>
+   <name>TCM-007 user is able to request Resend Confirmation Instructions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e3ce6f4-f390-46ad-ac1e-73221c706701</testCaseGuid>
+</TestCaseEntity>

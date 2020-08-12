@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as a user, I must be able to successfully logout from the midtrans website</description>
+   <name>TCM-009 user is able to logout after login to the website</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6a8968b-aebb-4388-983e-dc04523a8060</testCaseGuid>
+</TestCaseEntity>
