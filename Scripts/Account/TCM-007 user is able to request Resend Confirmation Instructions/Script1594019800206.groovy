@@ -35,7 +35,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Login/Page_MAP  Registration/button_Back to Login'))
 
-WebUI.verifyElementVisible(findTestObject('Account/Page_MAP  Midtrans/box_LOGIN'))
+WebUI.verifyElementVisible(findTestObject('Account/Page_MAP  Midtrans/box_LOGOUT'))
 
 WebUI.delay(2)
 
