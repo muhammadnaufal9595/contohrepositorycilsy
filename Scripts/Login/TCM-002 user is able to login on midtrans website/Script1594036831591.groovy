@@ -39,15 +39,15 @@ WebUI.delay(2)
 
 CustomKeywords.'CustomKeyword.login'(GlobalVariable.email,GlobalVariable.password)
 
-//WebUI.setText(findTestObject('Login/Page_MAP  Midtrans/inputField_email'), GlobalVariable.email)
-//
-//WebUI.delay(2)
-//
-//WebUI.setText(findTestObject('Login/Page_MAP  Midtrans/inputField_password'), GlobalVariable.password)
-//
-//WebUI.delay(2)
-//
-//WebUI.click(findTestObject('Login/Page_MAP  Midtrans/button_Login'))
+WebUI.setText(findTestObject('Login/Page_MAP  Midtrans/inputField_email'), GlobalVariable.email)
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Login/Page_MAP  Midtrans/inputField_password'), GlobalVariable.password)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Login/Page_MAP  Midtrans/button_Login'))
 
 WebUI.verifyElementPresent(findTestObject('Login/Page_MAP  Midtrans/button_accountInformation'), 2)
 
