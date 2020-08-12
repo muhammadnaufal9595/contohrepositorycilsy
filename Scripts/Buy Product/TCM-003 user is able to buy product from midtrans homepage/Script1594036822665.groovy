@@ -27,35 +27,35 @@ WebUI.click(findTestObject('Buy Product/Page_Sample Store/button_BUY NOW'))
 
 WebUI.delay(2)
 
-//WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Amount(Rp)'), '500000')
-//
-//WebUI.delay(2)
-//
-//WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Name'), 'NamaMana')
-//
-//WebUI.delay(2)
-//
-//WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Email'), 'email@email.com')
-//
-//WebUI.delay(2)
-//
-//WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Phone'), '089787876756')
-//
-//WebUI.delay(2)
-//
-//WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_City'), 'Bandung')
-//
-//WebUI.delay(2)
-//
-//WebUI.scrollToElement(findTestObject('Buy Product/Page_Sample Store/input_Address'), 2)
-//
-//WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Address'), 'Halo halo Bandung ibu kota priangan')
-//
-//WebUI.delay(2)
-//
-//WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_PostalCode'), '40123')
-//
-//WebUI.delay(2)
+WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Amount(Rp)'), '500000')
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Name'), 'NamaMana')
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Email'), 'email@email.com')
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Phone'), '089787876756')
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_City'), 'Bandung')
+
+WebUI.delay(2)
+
+WebUI.scrollToElement(findTestObject('Buy Product/Page_Sample Store/input_Address'), 2)
+
+WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_Address'), 'Halo halo Bandung ibu kota priangan')
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Buy Product/Page_Sample Store/input_PostalCode'), '40123')
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Buy Product/Page_Sample Store/button_CHECKOUT'))
 
